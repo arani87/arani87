@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Thanks for dropping by. 
+I'm currently working as a DevOps Consultant with a large European Bank. I love programming!
+For me refactoring old legacy code is like my daily dose of meditation.
